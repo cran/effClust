@@ -1,0 +1,15 @@
+60098dfc4eca7bf1a5dae9b6c94687ef *DESCRIPTION
+f4ec095655b1849fe038f7dee7580497 *LICENSE
+329dee4d6b6c2dff621d6c075412feff *NAMESPACE
+1e864de47c7484490008e816055d61cc *R/effClust-default.r
+44670883647efdad6567d7bd884c757e *R/effClust-feols.r
+b8fc9aa78acf6443ad05a6760b735e33 *R/effClust-formula.r
+4c61b7c64f710df703a7eedfde061c4a *R/effClust-lm.r
+9f043e87d5c574c8cba54561b654ae72 *R/effClust-package.r
+1a34f99d39ede0298b1937ae31a9e7b8 *R/effClust-plm.r
+86fda6e3dc31becf6cd6c5e7e9c60cef *R/effClust.r
+22d7001ab4621b9204991f7055c47de4 *R/errorChecks.r
+a1d8c12d14c302eb8ebcc6cc583e079a *R/helpers.r
+7080893e02c49cd296d4424b9be55069 *build/partial.rdb
+1044f5c9ba0726f8e0349700f7f55b03 *inst/doc/Note_on_computation.pdf
+005166d8d9d322effbab018642ab5a68 *man/effClust.Rd
